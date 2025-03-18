@@ -167,11 +167,3 @@ By the end of this task, students should be able to:
      score -= 5
      print(score)
      ```
-
-## Submission Guidelines:
-
-- Upload all Python files in a zip folder.
-- Ensure your code is well-commented.
-- Include a README file explaining your submission.
-
-Happy coding! 🚀
