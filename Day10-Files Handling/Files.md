@@ -380,6 +380,3 @@ Write to top_students.txt
 ```
 
 ---
-
-Would you like me to also create a sample **solution code** for this assignment at the end of the notes? 🚀 (I can add that if you want to check your answer!)  
-Let me know! 🎯
